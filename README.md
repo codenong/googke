@@ -1,3 +1,5 @@
-# Googke.me static files
 
-[中国电信劫持HTTP流量强插广告](http://quotation.github.io/web/2015/04/15/china-telecom-isp-hijack.html)
+個人小站，請不要查閱敏感信息，以免被牆。
+感謝您的來訪～
+
+
