@@ -8,3 +8,6 @@ Android: [googke-v1.0.apk](https://github.com/codenong/googke/raw/master/googke-
 
 IPhone(`需要越獄`): [googke-v1.0.ipa](https://github.com/codenong/googke/raw/master/googke-v1.0.ipa)
 - sha256sum: 324a6d0a2b7bba5182c12fe2d3a6006e9708d6a64c424308e5f77c5bee5b1fec
+
+
+apk 和 ipa 不需要 *除網絡外的其他權限* 。建議安裝後在手機中禁用不需要的權限。
